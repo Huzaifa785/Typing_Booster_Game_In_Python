@@ -59,7 +59,7 @@ from tkinter import messagebox
 
 root=Tk()
 root.geometry('900x700+400-100')
-root.configure(bg='maroon')
+root.configure(bg='blue')
 root.title('Typing Booster')
 root.iconbitmap('mine.ico')
 
